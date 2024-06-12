@@ -1,0 +1,4 @@
+"AadClientId": "c6f087ce-da08-4b6b-be02-233133b24ab6",
+"AadSecret": "340e08c0-c3a0-40a1-a10d-a228514fe7e9",
+"AadTenantDomain": "eatonvancecorp.onmicrosoft.com",
+"AadTenantId": "90866d42-eb26-4a2f-8c8c-62d61a9e50aa",
